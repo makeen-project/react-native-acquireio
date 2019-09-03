@@ -1,0 +1,15 @@
+{
+	"name": "react-native-acquire-io",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [
+		"react-native"
+	],
+	"author": "Artem Gordeev <artem@makeen.io",
+	"license": "MIT",
+	"peerDependencies": {
+		"react-native": "^0.41.2"
+	}
+}
